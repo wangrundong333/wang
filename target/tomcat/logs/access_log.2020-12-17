@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:23:31 +0800] "GET /crm/login.jsp HTTP/1.1" 200 1849 http-bio-8080-exec-1 1018
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /crm/login.jsp HTTP/1.1" 200 1849 http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /crm/jquery/jquery-1.11.1-min.js HTTP/1.1" 200 95788 http-bio-8080-exec-7 38
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /crm/jquery/bootstrap_3.3.0/js/bootstrap.min.js HTTP/1.1" 200 34653 http-bio-8080-exec-9 36
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /crm/jquery/bootstrap_3.3.0/css/bootstrap.min.css HTTP/1.1" 200 114011 http-bio-8080-exec-8 39
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /crm/image/IMG_7114.JPG HTTP/1.1" 200 650835 http-bio-8080-exec-1 12
+0:0:0:0:0:0:0:1 - - [17/Dec/2020:20:24:23 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
